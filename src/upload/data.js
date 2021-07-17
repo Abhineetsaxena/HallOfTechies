@@ -43,6 +43,17 @@ const data = [
       "https://twitter.com/palashburad26",
     ],
   },
+{
+    name: "Abhineet Saxena",
+    role: "Cloud Engineer",
+    image: "https://avatars.githubusercontent.com/u/40379507?v=4",
+    skills: ['Cloud AWS', 'DevOps', 'Scripting', 'Automation'],
+    link: [
+      "https://github.com/Abhineetsaxena",
+      "https://www.linkedin.com/in/abhineet05/",
+      "https://twitter.com/abhineetsaxena2",
+    ],
+  }
 ];
 
 export default data;
